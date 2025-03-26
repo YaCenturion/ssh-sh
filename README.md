@@ -1,5 +1,5 @@
 
-# 🚀 GitHub Action: Remote Fetch & Pull  
+# 🚀 GitHub Action: Remote executing commands
 
 This GitHub Action allows you to securely executing commands via SSH.
 
