@@ -26,7 +26,7 @@ jobs:
 
     steps:
       - name: Executing my commands
-        uses: yacenturion/ssh-fetch-pull@v1
+        uses: yacenturion/ssh-sh@v2
         with:
           HOST: "82.10.16.10"
           USERNAME: "root"
